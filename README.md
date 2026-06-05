@@ -64,10 +64,10 @@ README.md
 Dashboard Screenshots
 Dashboard Preview
 
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/4daef8a6-86b4-41ea-b2e5-9dbcd1a2ea2f" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/677d101a-1975-43a9-a41e-2f6b0781665c" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/606850eb-1a8d-4b79-8670-843cb5abee85" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/82d4a822-6ce9-45a1-a420-b2583718c5e5" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/4daef8a6-86b4-41ea-b2e5-9dbcd1a2ea2f" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/677d101a-1975-43a9-a41e-2f6b0781665c" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/606850eb-1a8d-4b79-8670-843cb5abee85" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/82d4a822-6ce9-45a1-a420-b2583718c5e5" />
 
 Conclusion
 
